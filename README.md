@@ -7,7 +7,7 @@ My personal Prettier config.
 **Install:**
 
 ``` bash
-yarn add --dev @azz/prettier-config`
+yarn add --dev @pixelstrolch/prettier-config`
 ```
 
 **Edit `package.json`:**
@@ -15,6 +15,6 @@ yarn add --dev @azz/prettier-config`
 ``` json
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@pixelstrolch/prettier-config"
 }
 ```
