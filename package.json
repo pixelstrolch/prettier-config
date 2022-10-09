@@ -1,11 +1,10 @@
 {
   "name": "@pixelstrolch/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My Prettier config",
   "main": "index.json",
   "license": "MIT",
   "keywords": [
-    "prettier",
     "prettier",
     "config"
   ],
