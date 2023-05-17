@@ -1,6 +1,6 @@
 {
-  "name": "@pixelstrolch/prettier-config",
-  "version": "1.0.1",
+  "name": "@stebrech/prettier-config",
+  "version": "1.0.2",
   "description": "My Prettier config",
   "main": "index.json",
   "license": "MIT",
@@ -11,7 +11,7 @@
   "author": "Stefan Brechbühl",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pixelstrolch/prettier-config"
+    "url": "https://github.com/stebrech/prettier-config"
   },
-  "homepage": "https://github.com/pixelstrolch/prettier-config"
+  "homepage": "https://github.com/stebrech/prettier-config"
 }

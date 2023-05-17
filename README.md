@@ -1,4 +1,4 @@
-# @pixelstrolch/prettier-config
+# @stebrech/prettier-config
 
 My personal Prettier config.
 
@@ -7,7 +7,7 @@ My personal Prettier config.
 **Install:**
 
 ``` bash
-yarn add --dev @pixelstrolch/prettier-config`
+yarn add --dev @stebrech/prettier-config`
 ```
 
 **Edit `package.json`:**
@@ -15,6 +15,6 @@ yarn add --dev @pixelstrolch/prettier-config`
 ``` json
 {
   // ...
-  "prettier": "@pixelstrolch/prettier-config"
+  "prettier": "@stebrech/prettier-config"
 }
 ```
